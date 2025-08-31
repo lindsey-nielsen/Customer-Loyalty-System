@@ -17,22 +17,36 @@ A simple customer loyalty system implemented in C using a binary search tree (BS
 ## Example Input / Output
 ### Input
 6
+
 add Alice 50
+
 add Bob 30
+
 add Charlie 70
+
 sub Alice 20
+
 search Alice
+
 count_smaller Charlie
 
 ### Output
 Alice 50
+
 Bob 30
+
 Charlie 70
+
 Alice 30
+
 Alice 30 1
+
 2
+
 Charlie 70
+
 Alice 30
+
 Bob 30
 
 ## How to Compile & Run
